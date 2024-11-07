@@ -2,7 +2,7 @@
 export interface Post {
     id: number;
     userId: number;
-    title: number;
+    title: string;
     body: string;
 }
 
